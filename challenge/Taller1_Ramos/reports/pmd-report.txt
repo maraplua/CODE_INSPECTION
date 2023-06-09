@@ -1,0 +1,1 @@
+src/main/java/tallerRamos/Main.java:11:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
