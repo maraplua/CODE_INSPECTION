@@ -1,1 +1,1 @@
-# CODE_INSPECTION
+# CodeInspection
